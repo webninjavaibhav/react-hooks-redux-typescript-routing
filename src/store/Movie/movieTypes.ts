@@ -1,0 +1,10 @@
+/**
+ * Action types for current user actions.
+ */
+export const SEARCH_MOVIE_REQUEST = 'SEARCH_MOVIE_REQUEST';
+export const SEARCH_MOVIE_SUCCESS = 'SEARCH_MOVIE_SUCCESS';
+export const SEARCH_MOVIE_FAILURE = 'SEARCH_MOVIE_FAILURE';
+export const ADD_MOVIE_AS_UNWATCH = 'ADD_MOVIE_AS_UNWATCH';
+export const ADD_MOVIE_AS_WATCH = 'ADD_MOVIE_AS_WATCH';
+export const REMOVE_MOVIE_FROM_WATCH = 'REMOVE_MOVIE_FROM_WATCH';
+export const SEARCH_MY_MOVIE = 'SEARCH_MY_MOVIE';
